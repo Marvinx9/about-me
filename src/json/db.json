@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "titulo": "Python - Origem do Nome",
+    "texto": "Porque uma das linguagens mais amadas do mundo tem inspiração em um grupo de comédia britânico chamado Monty Python."
+  },
+  {
+    "id": 2,
+    "titulo": "Node.js - JavaScript no Back-end",
+    "texto": "Criado para rodar JavaScript fora do navegador, o Node.js revolucionou o desenvolvimento back-end com sua arquitetura assíncrona baseada em eventos."
+  },
+  {
+    "id": 3,
+    "titulo": "React - O Começo da Revolução",
+    "texto": "Lançado pelo Facebook em 2013, o React trouxe o conceito de componentes reutilizáveis e mudou a forma de construir interfaces web."
+  },
+  {
+    "id": 4,
+    "titulo": "Java - A Promessa do WORA",
+    "texto": "Com o slogan 'write once, run anywhere', Java se tornou uma das linguagens mais utilizadas no mundo corporativo e acadêmico."
+  },
+  {
+    "id": 5,
+    "titulo": "TypeScript - JavaScript com Tipos",
+    "texto": "Criado pela Microsoft, o TypeScript adiciona tipagem estática ao JavaScript, facilitando o desenvolvimento de grandes aplicações."
+  },
+  {
+    "id": 6,
+    "titulo": "NestJS - Arquitetura Moderna em Node",
+    "texto": "Baseado em TypeScript e inspirado em Angular, o NestJS traz estrutura e produtividade para projetos Node.js com foco em escalabilidade."
+  },
+  {
+    "id": 7,
+    "titulo": "PostgreSQL - Poder e Confiabilidade",
+    "texto": "Um dos bancos de dados relacionais mais robustos e open-source, com suporte a JSON, transações e extensibilidade avançada."
+  },
+  {
+    "id": 8,
+    "titulo": "Docker - Contêineres em Ação",
+    "texto": "Docker permite empacotar aplicações com todas as suas dependências, facilitando o deploy e o desenvolvimento em ambientes consistentes."
+  }
+]
