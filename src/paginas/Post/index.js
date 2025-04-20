@@ -6,9 +6,14 @@ import Markdown from "react-markdown";
 import NaoEncontrada from "paginas/NaoEncontrada";
 import PaginaPadrao from "components/PaginaPadrao";
 import Recomendacoes from "components/Recomendacoes";
+import { useEffect } from "react";
 
 export default function Post() {
   const params = useParams();
+
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, [params.id]);
 
   const post = posts.find((post) => post.id === Number(params.id));
 
